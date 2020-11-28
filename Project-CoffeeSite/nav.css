@@ -1,0 +1,212 @@
+body {
+												margin: 1px;
+												font-family: Georgia;
+												background-color: #deb186;
+												text-align: center;			
+							}
+												
+.footer {
+      				left:0;
+      				bottom: 0;
+      				width: 100%;
+      				background-color: #4a5b59;
+      				color: white;
+      				text-align:center;      				     				
+      				height: 100px; 
+      				display: block;
+        }
+.topnav {
+												overflow: auto;
+												background-color: #d7a372;
+												margin: 4px 2px;
+												float: center;
+												color : white;
+												text-align: center;
+												padding: 20px 22px;
+												text-decoration: non;
+												font-size: 17pz;
+						  		}
+						  		
+.topnav a {
+												margin: 4px 2px;
+												float: center;
+												color : white;
+												text-align: center;
+												padding: 20px 22px;
+												text-decoration: non;
+												font-size: 17px;
+				   				}
+.topnav a:hover{
+				background-color: #d69a58;
+}			   				
+								
+.se {
+											background-color: #94a698;
+         color: white;
+         padding: 1px 20px;
+         text-align: center;
+         font-size: 16px;
+         margin: 10px 2px;  
+         list-style-type: circle;    
+         align: center;
+         display : flex;
+								}	
+.pr {
+											background-color: #94a698;
+         color: white;
+         padding: 1px 20px;
+         text-align: center;
+         font-size: 16px;
+         margin: 10px 2px;  
+         list-style-type: circle;    
+         align: center;
+								}	
+.se a:hover{
+				background-color: #BCCCB7;
+}    
+.sel {
+											background-color: #BCCCB7;
+         color: white;
+         padding: 1px 20px;
+         text-align: center;
+         font-size: 16px;
+         margin: 10px 2px;      
+								}	    
+.see {
+											background-color: #C3CCB7;
+         color: white;
+         padding: 1px 20px;
+         text-align: center;
+         font-size: 16px;
+         margin: 10px 2px;      
+								}	    
+.list{
+										background-color:#4d3300;
+	      			color: white;
+         padding: 1px 20px;
+         text-align: center;
+         font-size: 16px;
+         margin: 10px 2px; 
+         list-style-type: none;
+  margin: 0;
+  padding: 0;  
+}
+.listt{
+										background-color:#996600;
+	      			color: white;
+         padding: 1px 20px;
+         text-align: center;
+         font-size: 16px;
+         margin: 10px 2px;   
+         list-style-type: none;
+								  margin: 0;
+								  padding: 0;
+}
+.listtt{
+										background-color:#c68c53;
+	      			color: white;
+         padding: 1px 20px;
+         text-align: center;
+         font-size: 16px;
+         margin: 10px 2px;   
+         list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+								  
+.btn {
+      				background-color: #94a698 ;
+         border: none;
+         color: white;
+         padding: 1px 50px;
+         text-align: center;
+         text-decoration: none;
+         display: relative;
+         font-size: 14px;
+         margin: 1px 1px;
+         cursor: pointer;				
+         font-family: Georgia;
+      }
+      
+      p.ridge {
+         border-style: ridge;
+         padding:20px 20px;
+         
+         display: inline-block;
+      }
+      ul.a {
+  list-style-type: circle;
+}
+
+div.polaroid{
+				width:30%;
+				background-color : Gainsboro;
+				box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+				margin-bottom: 10px;
+				background-size: 100%;   
+   height: 30%; 
+ 		margin: 2%; 
+  	float:  ;
+  	display : block ;
+  	position: relative ;
+   
+ 
+					
+	}
+.polaroid:hover { background-color: #6f8281;}
+
+
+div.container{
+				text-align: center;
+				padding: 10px 20px;
+}
+.pol{
+				display : inline-block ;
+				margin : 10px;
+}
+
+
+.coverimg {
+  border: 0px solid black;
+  padding: 25px;
+  background: url(imges/latte-art-in-a-yellow-cup2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: left;
+  
+}
+.container1{
+				text-align: center;
+				padding: 10px 20px;
+}
+.coverimg1 {
+  border: 0px solid black;
+  padding: 25px;
+  background: url(imges/blackCoffee2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: left;
+  
+}
+.table {
+				border: 1px solid black ;
+				border-collapse: collapse;
+				padding: 5px;
+				text-align: center ;
+}
+.tips {
+				font-size: 13px ;
+				background-color: #ababab;
+				text-align: left;
+				padding: 5px;
+				border: 1px solid gray;
+}
+.coverimge {
+  border: 0px solid black;
+  padding: 25px;
+  background: url(imges/espresso3.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: left;
+  }
